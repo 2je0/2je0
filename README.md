@@ -3,7 +3,7 @@
 ⭐ This is Je young.  
 💻 I'm majoring in Mechanics Engineering and Software.  
 🌸 I'm currently doing Hyundai Softeer Bootcamp.  
-💡Fun Fact! : I really love traveling overseas. Traveled more than 10 countries.  
+💡Fun Fact! : I really love traveling overseas. Traveled more than 10 countries. Actually, it's a lie. I copied it from [here.](https://github.com/SUMMERLOVE7)
 
 
 <!--
