@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ⭐ This is Je young
-💻 I'm majoring in Mechanics Engineering and Software
-🌸 I'm currently doing Hyundai Softeer Bootcamp.
+💻 I'm majoring in Mechanics Engineering and Software. 
+🌸 I'm currently doing Hyundai Softeer Bootcamp.  
 💡Fun Fact! : I really love traveling overseas. Traveled more than 10 countries.
 
 
